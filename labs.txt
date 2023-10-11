@@ -1,0 +1,11 @@
+https://medium.com/atgwork/oracle-identity-manager-12c-12-2-1-3-0-installation-and-configuration-929216dbe0d7
+	https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/12c/r1/windows_db_install_obe/installing_oracle_db12c_windows.html
+	
+	
+
+https://www.idmworks.com/solutions-architect/iga-oig-instl-and-cfg/
+
+https://docs.oracle.com/en/middleware/idm/access-manager/12.2.1.4/tutorial-oam-configure-oam/#introduction
+
+
+https://docs.oracle.com/en/middleware/idm/access-manager/12.2.1.4/tutorial-oam-install-oam/#introduction
